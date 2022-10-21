@@ -27,12 +27,12 @@
         "illuminate/routing": "~5.5",
         "aws/aws-sdk-php": "^3.28",
         "ramsey/uuid": "^3.7",
-        
+        "nesbot/carbon": "^2.53.1",
         "guzzlehttp/guzzle": "^7.4.1",
         "paquettg/php-html-parser": "^1.7",
         "aws/aws-php-sns-message-validator": "^1.4",
         "symfony/psr-http-message-bridge": "^2.1.2",
-        "zendframework/zend-diactoros": "^1.7"
+        "zendframework/zend-diactoros": "*"
     },
     "require-dev": {
         "mockery/mockery": "~1.0",
