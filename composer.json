@@ -24,7 +24,7 @@
         "illuminate/mail": "~5.5",
         "illuminate/database": "~5.5",
         "illuminate/container": "~5.5",
-        "illuminate/routing": "~5.5",
+        "illuminate/routing": "^8.0",
         "aws/aws-sdk-php": "^3.28",
         "ramsey/uuid": "^3.7",
         "nesbot/carbon": "^2.53.1",
